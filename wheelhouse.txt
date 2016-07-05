@@ -1,0 +1,1 @@
+bzr+lp:charm-helpers#egg=charmhelpers
