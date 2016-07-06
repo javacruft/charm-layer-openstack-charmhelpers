@@ -1,2 +1,2 @@
-bzr+lp:~james-page/charm-helpers/switch-setuptools
-#lp:charm-helpers#egg=charmhelpers
+bzr+https://code.launchpad.net/~james-page/charm-helpers/switch-setuptools
+#bzr+lp:charm-helpers#egg=charmhelpers
